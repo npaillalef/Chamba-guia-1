@@ -1,0 +1,9 @@
+DIAPOSITIVA 1. Presento una comparación inicial de datos 1D y 2D sin entrenamiento de inteligencia artificial.
+DIAPOSITIVA 2. Usé Pandas para datos numéricos y Pillow/NumPy para la imagen. Conservo ambos originales.
+DIAPOSITIVA 3. El Nilo tiene 100 observaciones anuales entre 1871 y 1970. El eje es el año y el valor es volumen anual en 10⁸ m³.
+DIAPOSITIVA 4. La curva permite identificar variaciones, pero no sus causas. No eliminé registros.
+DIAPOSITIVA 5. La foto del Falcon 9 tiene tres canales RGB. Indico sus dimensiones, tipo y formato.
+DIAPOSITIVA 6. Un histograma muestra frecuencias de intensidades, no defectos. El gris es una copia que pierde color.
+DIAPOSITIVA 7. Verifiqué faltantes, tipo, integridad y limitaciones. Los archivos originales permanecen intactos.
+DIAPOSITIVA 8. La pregunta futura de IA sería anticipar riesgo hidrológico incorporando más variables y validación temporal. No entrené ningún modelo.
+DIAPOSITIVA 9. Reitero las limitaciones y muestro capturas del entorno real antes de entregar.

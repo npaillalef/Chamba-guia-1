@@ -1,0 +1,3 @@
+﻿archivo,observacion,evidencia,posible_impacto,accion_o_justificacion,referencia_original
+nile.csv,100 filas; faltantes=0; no finitos=0,Conteos NumPy/Pandas y gráfico temporal,Las oscilaciones son observables; no se explica su causa sin metadatos,Se conserva toda la secuencia sin filtrar ni imputar,88e97bea7249e5832a85e41aec6ce4b8f7b1b14aae930c8363da7f193286b598
+rocket.jpg,"JPEG (427, 640, 3); tipo uint8","Lectura de cabecera, imagen e histogramas RGB","Compresión, falta de escala y posibles extremos digitales",Se conserva JPEG; gris calculado solo como copia,c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c

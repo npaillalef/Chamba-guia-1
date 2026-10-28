@@ -1,0 +1,25 @@
+{
+  "n": 100,
+  "year0": 1871,
+  "year1": 1970,
+  "min": 456.0,
+  "max": 1370.0,
+  "mean": 919.35,
+  "median": 893.5,
+  "std": 169.22750063065095,
+  "missing": 0,
+  "nonfinite": 0,
+  "shape_img": [
+    427,
+    640,
+    3
+  ],
+  "dtype_img": "uint8",
+  "format_img": "JPEG",
+  "mode_img": "RGB",
+  "image_bytes": 819840,
+  "near_white": 0.16515417642466823,
+  "near_black": 0.3748292349726776,
+  "nile_hash": "88e97bea7249e5832a85e41aec6ce4b8f7b1b14aae930c8363da7f193286b598",
+  "img_hash": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c"
+}
